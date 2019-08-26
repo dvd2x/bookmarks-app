@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bookmarks-app/static/css/main.9a852b59.chunk.css",
-    "main.js": "/bookmarks-app/static/js/main.d2f13eb3.chunk.js",
-    "main.js.map": "/bookmarks-app/static/js/main.d2f13eb3.chunk.js.map",
+    "main.js": "/bookmarks-app/static/js/main.6703b544.chunk.js",
+    "main.js.map": "/bookmarks-app/static/js/main.6703b544.chunk.js.map",
     "runtime~main.js": "/bookmarks-app/static/js/runtime~main.7ebfcad7.js",
     "runtime~main.js.map": "/bookmarks-app/static/js/runtime~main.7ebfcad7.js.map",
-    "static/js/2.1b5b8b64.chunk.js": "/bookmarks-app/static/js/2.1b5b8b64.chunk.js",
-    "static/js/2.1b5b8b64.chunk.js.map": "/bookmarks-app/static/js/2.1b5b8b64.chunk.js.map",
+    "static/js/2.105722e3.chunk.js": "/bookmarks-app/static/js/2.105722e3.chunk.js",
+    "static/js/2.105722e3.chunk.js.map": "/bookmarks-app/static/js/2.105722e3.chunk.js.map",
     "index.html": "/bookmarks-app/index.html",
-    "precache-manifest.e8783733b8623ecacc6ea3e490b59e21.js": "/bookmarks-app/precache-manifest.e8783733b8623ecacc6ea3e490b59e21.js",
+    "precache-manifest.7410bc79607ef64dc7c75b166d86d07e.js": "/bookmarks-app/precache-manifest.7410bc79607ef64dc7c75b166d86d07e.js",
     "service-worker.js": "/bookmarks-app/service-worker.js",
     "static/css/main.9a852b59.chunk.css.map": "/bookmarks-app/static/css/main.9a852b59.chunk.css.map"
   }
